@@ -1,0 +1,6 @@
+Unique ID: UMOCYULN3 | Application Name: Medical Software | Date & Time: 2018/12/31 05:09:27 | Platform: windows 10 | Description: Doesn't work | Status: Open | User Responsible: 1 |
+Unique ID: YIYOETC0V | Application Name: Software Issue | Date & Time: 2018/12/31 05:09:29 | Platform: windows 10 | Description: Software is broken | Status: Assigned | User Responsible: Bill |
+Unique ID: PATYY57NU | Application Name: Angular Project | Date & Time: 2018/12/31 21:14:52 | Platform: windows 10 | Description: Client not sending messages | Status: Open |
+Unique ID: OUZVQTMD5 | Application Name: Bug #3 | Date & Time: 2018/12/31 21:37:02 | Platform: windows 10 | Description: Test | Status: Open | User Responsible: Faris |
+Unique ID: GIQSCOCOY | Application Name: Buggy | Date & Time: 2019/01/01 19:43:32 | Platform: windows 10 | Description: BuggyIssue | Status: Open |
+Unique ID: 9OV5UJOLJ | Application Name: Test | Date & Time: 2019/01/01 20:43:52 | Platform: windows 10 | Description: Test before submit | Status: Closed |

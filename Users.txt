@@ -1,0 +1,5 @@
+Username: Bill | Employee ID: 540 | Email: bill@gmail.us | Department: Computer
+Username: Faris | Employee ID: 546 | Email: faris@hotmail.com | Department: Science
+Username: Felix | Employee ID: 333 | Email: felix@yahoo.co.uk | Department: Science
+Username: Banana | Employee ID: 66 | Email: banana@test.ie | Department: Banana
+Username: corm | Employee ID: 1 | Email: no | Department: no
